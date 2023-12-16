@@ -6,12 +6,13 @@
 
   <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" alt="About Me GIF">
 
-  [![](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 🔭 I’m currently working on Java Full Stack Development Student Course Management System<br><br>🌱 I’m currently learning Data Science, Full Stack Web Development and Programming Data Warehousing, Data Mining, Data Visualization, Big Data Analytics, Django, Flask, Node JS, Express, HTML, Java Script, Java, Python, C, C++<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/gvachaspathi-gnaneswar<br><br>📛 All of my Badges are available at https://www.credly.com/users/vachaspathi-gnaneswar-garlapati/badges<br><br>⚡ Fun Facts about me I'm very funny, inquisitive, patient, over-thinker, nostalgic, well-rounded individual, and megalomanic<br><br>📫 How to reach me 2100032473cseh@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1upePHSUND7pennA0lA1j9eUrAUmC7C42/view?usp=sharing
 
 <div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=vachaspathi6&icon=4&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vachaspathi6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gvachaspathi-gnaneswar) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/vachaspathi) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/9347835425) [![Unstop](https://img.shields.io/badge/Unstop-%23000000.svg?logo=&logoColor=white)](https://unstop.com/u/vachaspathi6?preview=true)
@@ -38,9 +39,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=vachaspathi6&icon=4&color=8)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
