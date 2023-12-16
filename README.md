@@ -5,6 +5,8 @@
 ## 💫 About Me:
 
   <img src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif" alt="About Me GIF">
+
+  [![](https://visitcount.itsvg.in/api?id=venkataramanabaratam1&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 🔭 I’m currently working on Java Full Stack Development Student Course Management System<br><br>🌱 I’m currently learning Data Science, Full Stack Web Development and Programming Data Warehousing, Data Mining, Data Visualization, Big Data Analytics, Django, Flask, Node JS, Express, HTML, Java Script, Java, Python, C, C++<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/gvachaspathi-gnaneswar<br><br>📛 All of my Badges are available at https://www.credly.com/users/vachaspathi-gnaneswar-garlapati/badges<br><br>⚡ Fun Facts about me I'm very funny, inquisitive, patient, over-thinker, nostalgic, well-rounded individual, and megalomanic<br><br>📫 How to reach me 2100032473cseh@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1upePHSUND7pennA0lA1j9eUrAUmC7C42/view?usp=sharing
